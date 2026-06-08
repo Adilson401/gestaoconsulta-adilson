@@ -1,0 +1,10 @@
+Passos para criação do projecto
+
+1. Criamos pasta do projecto
+2. Instalamos node.js
+3. Instalamos NPM 
+4. Criamos um ficheiro com nome server.js que era uno servidor e rota da API
+5. estamos criar os apontador dos metodos (Put, Get, Delete, Edit)
+6. Instalamos pacote do modules usando npm init -y
+7. Criar a base de dados MongoDB
+- Cadastrar usuario e base de dados
